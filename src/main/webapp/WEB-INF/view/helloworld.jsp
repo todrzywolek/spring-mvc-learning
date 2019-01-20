@@ -10,6 +10,8 @@
 <p>Student name: ${param.studentName}</p>
 <br/><br/>
 <p>Uppercase message: ${message}</p>
+<br/><br/>
+<p>Uppercase message with @RequestParam: ${messageRP}</p>
 </body>
 
 </html>
