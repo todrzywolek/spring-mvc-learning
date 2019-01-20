@@ -6,6 +6,13 @@
 
 <body>
 <form action="processForm" method="get">
+    <label>V1 process form</label>
+    <input type="text" name="studentName" placeholder="What's your name?"/>
+    <input type="submit"/>
+</form>
+<hr/>
+<form action="processFormAndUpperCase" method="get">
+    <label>Process form and change name to uppercase</label>
     <input type="text" name="studentName" placeholder="What's your name?"/>
     <input type="submit"/>
 </form>

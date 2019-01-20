@@ -8,6 +8,8 @@
 <h1>Hello World of Spring!</h1>
 <br/><br/>
 <p>Student name: ${param.studentName}</p>
+<br/><br/>
+<p>Uppercase message: ${message}</p>
 </body>
 
 </html>
